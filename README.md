@@ -11,3 +11,4 @@ ruby test_triangle.rb
 ## command 2
 
 rspec spec/triangle_spec.rb
+Keep Learning
